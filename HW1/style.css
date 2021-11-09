@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  .container {
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
+  .header_menu {
+      height: 70px;
+      background: teal;
+  }
+  .top_menu {
+      display: flex;
+      justify-content: space-around;
+  }
+  .logo{
+    width: 50px;
+    height: 50px;
+    margin-top: 10px;
+  }
+  .btn-cart {
+      margin-left: 450px;
+      margin-top: 15px;
+      color: teal;
+      padding: 10px;
+  }
+  
+  .products{
+      display: flex;
+      justify-content: space-around;
+      margin-top:30px;
+  }
+  
